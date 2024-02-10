@@ -1,0 +1,22 @@
+{
+  "name": "student-sphere-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the StudentSphere student discussion platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahu1Rawat/StudentSphere-backend.git"
+  },
+  "author": "Rahul Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahu1Rawat/StudentSphere-backend/issues"
+  },
+  "homepage": "https://github.com/Rahu1Rawat/StudentSphere-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
