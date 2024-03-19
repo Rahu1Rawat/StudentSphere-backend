@@ -1,0 +1,1490 @@
+[
+    {
+        "animal": "Canidae"
+    },
+    {
+        "animal": "Felidae"
+    },
+    {
+        "animal": "Cat"
+    },
+    {
+        "animal": "Cattle"
+    },
+    {
+        "animal": "Goat"
+    },
+    {
+        "animal": "Guinea pig"
+    },
+    {
+        "animal": "Horse"
+    },
+    {
+        "animal": "Rabbit"
+    },
+    {
+        "animal": "Fancy rat"
+    },
+    {
+        "animal": "Sheep"
+    },
+    {
+        "animal": "Chicken"
+    },
+    {
+        "animal": "Duck"
+    },
+    {
+        "animal": "Goose"
+    },
+    {
+        "animal": "Pigeon"
+    },
+    {
+        "animal": "Turkey"
+    },
+    {
+        "animal": "Aardvark"
+    },
+    {
+        "animal": "Aardwolf"
+    },
+    {
+        "animal": "leopard"
+    },
+    {
+        "animal": "Albatross"
+    },
+    {
+        "animal": "Alligator"
+    },
+    {
+        "animal": "Alpaca"
+    },
+    {
+        "animal": "robin"
+    },
+    {
+        "animal": "Amphibian"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Anaconda"
+    },
+    {
+        "animal": "Angelfish"
+    },
+    {
+        "animal": "Anglerfish"
+    },
+    {
+        "animal": "Ant"
+    },
+    {
+        "animal": "Anteater"
+    },
+    {
+        "animal": "Antelope"
+    },
+    {
+        "animal": "Antlion"
+    },
+    {
+        "animal": "Ape"
+    },
+    {
+        "animal": "Aphid"
+    },
+    {
+        "animal": "Arabian leopard"
+    },
+    {
+        "animal": "Arctic Fox"
+    },
+    {
+        "animal": "Arctic Wolf"
+    },
+    {
+        "animal": "Armadillo"
+    },
+    {
+        "animal": "Arrow crab"
+    },
+    {
+        "animal": "Asp"
+    },
+    {
+        "animal": "Baboon"
+    },
+    {
+        "animal": "Badger"
+    },
+    {
+        "animal": "Bald eagle"
+    },
+    {
+        "animal": "Bandicoot"
+    },
+    {
+        "animal": "Barnacle"
+    },
+    {
+        "animal": "Barracuda"
+    },
+    {
+        "animal": "Basilisk"
+    },
+    {
+        "animal": "Bass"
+    },
+    {
+        "animal": "Bat"
+    },
+    {
+        "animal": "Beaked whale"
+    },
+    {
+        "animal": "Bear"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Beaver"
+    },
+    {
+        "animal": "Bedbug"
+    },
+    {
+        "animal": "Bee"
+    },
+    {
+        "animal": "Beetle"
+    },
+    {
+        "animal": "Bird"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Bison"
+    },
+    {
+        "animal": "Blackbird"
+    },
+    {
+        "animal": "Black panther"
+    },
+    {
+        "animal": "Black widow spider"
+    },
+    {
+        "animal": "Blue bird"
+    },
+    {
+        "animal": "Blue jay"
+    },
+    {
+        "animal": "Blue whale"
+    },
+    {
+        "animal": "Boa"
+    },
+    {
+        "animal": "Boar"
+    },
+    {
+        "animal": "Bobcat"
+    },
+    {
+        "animal": "Bobolink"
+    },
+    {
+        "animal": "Bonobo"
+    },
+    {
+        "animal": "Booby"
+    },
+    {
+        "animal": "Box jellyfish"
+    },
+    {
+        "animal": "Bovid"
+    },
+    {
+        "animal": "Buffalo"
+    },
+    {
+        "animal": "Bug"
+    },
+    {
+        "animal": "Butterfly"
+    },
+    {
+        "animal": "Buzzard"
+    },
+    {
+        "animal": "Camel"
+    },
+    {
+        "animal": "Canid"
+    },
+    {
+        "animal": "Cape buffalo"
+    },
+    {
+        "animal": "Capybara"
+    },
+    {
+        "animal": "Cardinal"
+    },
+    {
+        "animal": "Caribou"
+    },
+    {
+        "animal": "Carp"
+    },
+    {
+        "animal": "Cat"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Catshark"
+    },
+    {
+        "animal": "Caterpillar"
+    },
+    {
+        "animal": "Catfish"
+    },
+    {
+        "animal": "Cattle"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Centipede"
+    },
+    {
+        "animal": "Cephalopod"
+    },
+    {
+        "animal": "Chameleon"
+    },
+    {
+        "animal": "Cheetah"
+    },
+    {
+        "animal": "Chickadee"
+    },
+    {
+        "animal": "Chicken"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Chimpanzee"
+    },
+    {
+        "animal": "Chinchilla"
+    },
+    {
+        "animal": "Chipmunk"
+    },
+    {
+        "animal": "Clam"
+    },
+    {
+        "animal": "Clownfish"
+    },
+    {
+        "animal": "Cobra"
+    },
+    {
+        "animal": "Cockroach"
+    },
+    {
+        "animal": "Cod"
+    },
+    {
+        "animal": "Condor"
+    },
+    {
+        "animal": "Constrictor"
+    },
+    {
+        "animal": "Coral"
+    },
+    {
+        "animal": "Cougar"
+    },
+    {
+        "animal": "Cow"
+    },
+    {
+        "animal": "Coyote"
+    },
+    {
+        "animal": "Crab"
+    },
+    {
+        "animal": "Crane"
+    },
+    {
+        "animal": "Crane fly"
+    },
+    {
+        "animal": "Crawdad"
+    },
+    {
+        "animal": "Crayfish"
+    },
+    {
+        "animal": "Cricket"
+    },
+    {
+        "animal": "Crocodile"
+    },
+    {
+        "animal": "Crow"
+    },
+    {
+        "animal": "Cuckoo"
+    },
+    {
+        "animal": "Cicada"
+    },
+    {
+        "animal": "Damselfly"
+    },
+    {
+        "animal": "Deer"
+    },
+    {
+        "animal": "Dingo"
+    },
+    {
+        "animal": "Dinosaur"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Dolphin"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Dormouse"
+    },
+    {
+        "animal": "Dove"
+    },
+    {
+        "animal": "Dragonfly"
+    },
+    {
+        "animal": "Dragon"
+    },
+    {
+        "animal": "Duck"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Dung beetle"
+    },
+    {
+        "animal": "Eagle"
+    },
+    {
+        "animal": "Earthworm"
+    },
+    {
+        "animal": "Earwig"
+    },
+    {
+        "animal": "Echidna"
+    },
+    {
+        "animal": "Eel"
+    },
+    {
+        "animal": "Egret"
+    },
+    {
+        "animal": "Elk"
+    },
+    {
+        "animal": "Emu"
+    },
+    {
+        "animal": "English pointer"
+    },
+    {
+        "animal": "Ermine"
+    },
+    {
+        "animal": "Falcon"
+    },
+    {
+        "animal": "Ferret"
+    },
+    {
+        "animal": "Finch"
+    },
+    {
+        "animal": "Firefly"
+    },
+    {
+        "animal": "Fish"
+    },
+    {
+        "animal": "Flamingo"
+    },
+    {
+        "animal": "Flea"
+    },
+    {
+        "animal": "Fly"
+    },
+    {
+        "animal": "Flyingfish"
+    },
+    {
+        "animal": "Fowl"
+    },
+    {
+        "animal": "Fox"
+    },
+    {
+        "animal": "Frog"
+    },
+    {
+        "animal": "Fruit bat"
+    },
+    {
+        "animal": "Gamefowl"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Galliform"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Gazelle"
+    },
+    {
+        "animal": "Gecko"
+    },
+    {
+        "animal": "Gerbil"
+    },
+    {
+        "animal": "Giant panda"
+    },
+    {
+        "animal": "Giant squid"
+    },
+    {
+        "animal": "Gibbon"
+    },
+    {
+        "animal": "Gila monster"
+    },
+    {
+        "animal": "Giraffe"
+    },
+    {
+        "animal": "Goat"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Goldfish"
+    },
+    {
+        "animal": "Goose"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Gopher"
+    },
+    {
+        "animal": "Gorilla"
+    },
+    {
+        "animal": "Grasshopper"
+    },
+    {
+        "animal": "Great blue heron"
+    },
+    {
+        "animal": "Great white shark"
+    },
+    {
+        "animal": "Grizzly bear"
+    },
+    {
+        "animal": "Ground shark"
+    },
+    {
+        "animal": "Ground sloth"
+    },
+    {
+        "animal": "Grouse"
+    },
+    {
+        "animal": "Guan"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Guanaco"
+    },
+    {
+        "animal": "Guineafowl"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Guinea pig"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Gull"
+    },
+    {
+        "animal": "Guppy"
+    },
+    {
+        "animal": "Haddock"
+    },
+    {
+        "animal": "Halibut"
+    },
+    {
+        "animal": "Hammerhead shark"
+    },
+    {
+        "animal": "Hamster"
+    },
+    {
+        "animal": "Hare"
+    },
+    {
+        "animal": "Harrier"
+    },
+    {
+        "animal": "Hawk"
+    },
+    {
+        "animal": "Hedgehog"
+    },
+    {
+        "animal": "Hermit crab"
+    },
+    {
+        "animal": "Heron"
+    },
+    {
+        "animal": "Herring"
+    },
+    {
+        "animal": "Hippopotamus"
+    },
+    {
+        "animal": "Hookworm"
+    },
+    {
+        "animal": "Hornet"
+    },
+    {
+        "animal": "Horse"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Hoverfly"
+    },
+    {
+        "animal": "Hummingbird"
+    },
+    {
+        "animal": "Humpback whale"
+    },
+    {
+        "animal": "Hyena"
+    },
+    {
+        "animal": "Iguana"
+    },
+    {
+        "animal": "Impala"
+    },
+    {
+        "animal": "Irukandji jellyfish"
+    },
+    {
+        "animal": "Jackal"
+    },
+    {
+        "animal": "Jaguar"
+    },
+    {
+        "animal": "Jay"
+    },
+    {
+        "animal": "Jellyfish"
+    },
+    {
+        "animal": "Junglefowl"
+    },
+    {
+        "animal": "Kangaroo"
+    },
+    {
+        "animal": "Kangaroo mouse"
+    },
+    {
+        "animal": "Kangaroo rat"
+    },
+    {
+        "animal": "Kingfisher"
+    },
+    {
+        "animal": "Kite"
+    },
+    {
+        "animal": "Kiwi"
+    },
+    {
+        "animal": "Koala"
+    },
+    {
+        "animal": "Koi"
+    },
+    {
+        "animal": "Komodo dragon"
+    },
+    {
+        "animal": "Krill"
+    },
+    {
+        "animal": "Ladybug"
+    },
+    {
+        "animal": "Lamprey"
+    },
+    {
+        "animal": "Landfowl"
+    },
+    {
+        "animal": "Land snail"
+    },
+    {
+        "animal": "Lark"
+    },
+    {
+        "animal": "Leech"
+    },
+    {
+        "animal": "Lemming"
+    },
+    {
+        "animal": "Lemur"
+    },
+    {
+        "animal": "Leopard"
+    },
+    {
+        "animal": "Leopon"
+    },
+    {
+        "animal": "Limpet"
+    },
+    {
+        "animal": "Lion"
+    },
+    {
+        "animal": "Lizard"
+    },
+    {
+        "animal": "Llama"
+    },
+    {
+        "animal": "Lobster"
+    },
+    {
+        "animal": "Locust"
+    },
+    {
+        "animal": "Loon"
+    },
+    {
+        "animal": "Louse"
+    },
+    {
+        "animal": "Lungfish"
+    },
+    {
+        "animal": "Lynx"
+    },
+    {
+        "animal": "Macaw"
+    },
+    {
+        "animal": "Mackerel"
+    },
+    {
+        "animal": "Magpie"
+    },
+    {
+        "animal": "Mammal"
+    },
+    {
+        "animal": "Manatee"
+    },
+    {
+        "animal": "Mandrill"
+    },
+    {
+        "animal": "Manta ray"
+    },
+    {
+        "animal": "Marlin"
+    },
+    {
+        "animal": "Marmoset"
+    },
+    {
+        "animal": "Marmot"
+    },
+    {
+        "animal": "Marsupial"
+    },
+    {
+        "animal": "Marten"
+    },
+    {
+        "animal": "Mastodon"
+    },
+    {
+        "animal": "Meadowlark"
+    },
+    {
+        "animal": "Meerkat"
+    },
+    {
+        "animal": "Mink"
+    },
+    {
+        "animal": "Minnow"
+    },
+    {
+        "animal": "Mite"
+    },
+    {
+        "animal": "Mockingbird"
+    },
+    {
+        "animal": "Mole"
+    },
+    {
+        "animal": "Mollusk"
+    },
+    {
+        "animal": "Mongoose"
+    },
+    {
+        "animal": "Monitor lizard"
+    },
+    {
+        "animal": "Monkey"
+    },
+    {
+        "animal": "Moose"
+    },
+    {
+        "animal": "Mosquito"
+    },
+    {
+        "animal": "Moth"
+    },
+    {
+        "animal": "Mountain goat"
+    },
+    {
+        "animal": "Mouse"
+    },
+    {
+        "animal": "Mule"
+    },
+    {
+        "animal": "Muskox"
+    },
+    {
+        "animal": "Narwhal"
+    },
+    {
+        "animal": "Newt"
+    },
+    {
+        "animal": "New World quail"
+    },
+    {
+        "animal": "Nightingale"
+    },
+    {
+        "animal": "Ocelot"
+    },
+    {
+        "animal": "Octopus"
+    },
+    {
+        "animal": "Old World quail"
+    },
+    {
+        "animal": "Opossum"
+    },
+    {
+        "animal": "Orangutan"
+    },
+    {
+        "animal": "Orca"
+    },
+    {
+        "animal": "Ostrich"
+    },
+    {
+        "animal": "Otter"
+    },
+    {
+        "animal": "Owl"
+    },
+    {
+        "animal": "Ox"
+    },
+    {
+        "animal": "Panda"
+    },
+    {
+        "animal": "Panther"
+    },
+    {
+        "animal": "Panthera hybrid"
+    },
+    {
+        "animal": "Parakeet"
+    },
+    {
+        "animal": "Parrot"
+    },
+    {
+        "animal": "Parrotfish"
+    },
+    {
+        "animal": "Partridge"
+    },
+    {
+        "animal": "Peacock"
+    },
+    {
+        "animal": "Peafowl"
+    },
+    {
+        "animal": "Pelican"
+    },
+    {
+        "animal": "Penguin"
+    },
+    {
+        "animal": "Perch"
+    },
+    {
+        "animal": "Peregrine falcon"
+    },
+    {
+        "animal": "Pheasant"
+    },
+    {
+        "animal": "Pigeon"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Pike"
+    },
+    {
+        "animal": "Pilot whale"
+    },
+    {
+        "animal": "Pinniped"
+    },
+    {
+        "animal": "Piranha"
+    },
+    {
+        "animal": "Planarian"
+    },
+    {
+        "animal": "Platypus"
+    },
+    {
+        "animal": "Polar bear"
+    },
+    {
+        "animal": "Pony"
+    },
+    {
+        "animal": "Porcupine"
+    },
+    {
+        "animal": "Porpoise"
+    },
+    {
+        "animal": "Possum"
+    },
+    {
+        "animal": "Prawn"
+    },
+    {
+        "animal": "Praying mantis"
+    },
+    {
+        "animal": "Primate"
+    },
+    {
+        "animal": "Ptarmigan"
+    },
+    {
+        "animal": "Puffin"
+    },
+    {
+        "animal": "Puma"
+    },
+    {
+        "animal": "Python"
+    },
+    {
+        "animal": "Quail"
+    },
+    {
+        "animal": "Quelea"
+    },
+    {
+        "animal": "Quokka"
+    },
+    {
+        "animal": "Rabbit"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Raccoon"
+    },
+    {
+        "animal": "Rainbow trout"
+    },
+    {
+        "animal": "Rat"
+    },
+    {
+        "animal": "Rattlesnake"
+    },
+    {
+        "animal": "Raven"
+    },
+    {
+        "animal": "Batoidea"
+    },
+    {
+        "animal": "Rajiformes"
+    },
+    {
+        "animal": "Red panda"
+    },
+    {
+        "animal": "Reindeer"
+    },
+    {
+        "animal": "Reptile"
+    },
+    {
+        "animal": "Rhinoceros"
+    },
+    {
+        "animal": "Right whale"
+    },
+    {
+        "animal": "Roadrunner"
+    },
+    {
+        "animal": "Rodent"
+    },
+    {
+        "animal": "Rook"
+    },
+    {
+        "animal": "Rooster"
+    },
+    {
+        "animal": "Roundworm"
+    },
+    {
+        "animal": "Saber-toothed cat"
+    },
+    {
+        "animal": "Sailfish"
+    },
+    {
+        "animal": "Salamander"
+    },
+    {
+        "animal": "Salmon"
+    },
+    {
+        "animal": "Sawfish"
+    },
+    {
+        "animal": "Scale insect"
+    },
+    {
+        "animal": "Scallop"
+    },
+    {
+        "animal": "Scorpion"
+    },
+    {
+        "animal": "Seahorse"
+    },
+    {
+        "animal": "Sea lion"
+    },
+    {
+        "animal": "Sea slug"
+    },
+    {
+        "animal": "Sea snail"
+    },
+    {
+        "animal": "Shark"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Sheep"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Shrew"
+    },
+    {
+        "animal": "Shrimp"
+    },
+    {
+        "animal": "Silkworm"
+    },
+    {
+        "animal": "Silverfish"
+    },
+    {
+        "animal": "Skink"
+    },
+    {
+        "animal": "Skunk"
+    },
+    {
+        "animal": "Sloth"
+    },
+    {
+        "animal": "Slug"
+    },
+    {
+        "animal": "Smelt"
+    },
+    {
+        "animal": "Snail"
+    },
+    {
+        "animal": "Snake"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Snipe"
+    },
+    {
+        "animal": "Snow leopard"
+    },
+    {
+        "animal": "Sockeye salmon"
+    },
+    {
+        "animal": "Sole"
+    },
+    {
+        "animal": "Sparrow"
+    },
+    {
+        "animal": "Sperm whale"
+    },
+    {
+        "animal": "Spider"
+    },
+    {
+        "animal": "Spider monkey"
+    },
+    {
+        "animal": "Spoonbill"
+    },
+    {
+        "animal": "Squid"
+    },
+    {
+        "animal": "Squirrel"
+    },
+    {
+        "animal": "Starfish"
+    },
+    {
+        "animal": "Star-nosed mole"
+    },
+    {
+        "animal": "Steelhead trout"
+    },
+    {
+        "animal": "Stingray"
+    },
+    {
+        "animal": "Stoat"
+    },
+    {
+        "animal": "Stork"
+    },
+    {
+        "animal": "Sturgeon"
+    },
+    {
+        "animal": "Sugar glider"
+    },
+    {
+        "animal": "Swallow"
+    },
+    {
+        "animal": "Swan"
+    },
+    {
+        "animal": "Swift"
+    },
+    {
+        "animal": "Swordfish"
+    },
+    {
+        "animal": "Swordtail"
+    },
+    {
+        "animal": "Tahr"
+    },
+    {
+        "animal": "Takin"
+    },
+    {
+        "animal": "Tapir"
+    },
+    {
+        "animal": "Tarantula"
+    },
+    {
+        "animal": "Tarsier"
+    },
+    {
+        "animal": "Tasmanian devil"
+    },
+    {
+        "animal": "Termite"
+    },
+    {
+        "animal": "Tern"
+    },
+    {
+        "animal": "Thrush"
+    },
+    {
+        "animal": "Tick"
+    },
+    {
+        "animal": "Tiger"
+    },
+    {
+        "animal": "Tiger shark"
+    },
+    {
+        "animal": "Tiglon"
+    },
+    {
+        "animal": "Toad"
+    },
+    {
+        "animal": "Tortoise"
+    },
+    {
+        "animal": "Toucan"
+    },
+    {
+        "animal": "Trapdoor spider"
+    },
+    {
+        "animal": "Tree frog"
+    },
+    {
+        "animal": "Trout"
+    },
+    {
+        "animal": "Tuna"
+    },
+    {
+        "animal": "Turkey"
+    },
+    {
+        "animal": "list"
+    },
+    {
+        "animal": "Turtle"
+    },
+    {
+        "animal": "Tyrannosaurus"
+    },
+    {
+        "animal": "Urial"
+    },
+    {
+        "animal": "Vampire bat"
+    },
+    {
+        "animal": "Vampire squid"
+    },
+    {
+        "animal": "Vicuna"
+    },
+    {
+        "animal": "Viper"
+    },
+    {
+        "animal": "Vole"
+    },
+    {
+        "animal": "Vulture"
+    },
+    {
+        "animal": "Wallaby"
+    },
+    {
+        "animal": "Walrus"
+    },
+    {
+        "animal": "Wasp"
+    },
+    {
+        "animal": "Warbler"
+    },
+    {
+        "animal": "Water Boa"
+    },
+    {
+        "animal": "Water buffalo"
+    },
+    {
+        "animal": "Weasel"
+    },
+    {
+        "animal": "Whale"
+    },
+    {
+        "animal": "Whippet"
+    },
+    {
+        "animal": "Whitefish"
+    },
+    {
+        "animal": "Whooping crane"
+    },
+    {
+        "animal": "Wildcat"
+    },
+    {
+        "animal": "Wildebeest"
+    },
+    {
+        "animal": "Wildfowl"
+    },
+    {
+        "animal": "Wolf"
+    },
+    {
+        "animal": "Wolverine"
+    },
+    {
+        "animal": "Wombat"
+    },
+    {
+        "animal": "Woodpecker"
+    },
+    {
+        "animal": "Worm"
+    },
+    {
+        "animal": "Wren"
+    },
+    {
+        "animal": "Xerinae"
+    },
+    {
+        "animal": "X-ray fish"
+    },
+    {
+        "animal": "Yak"
+    },
+    {
+        "animal": "Yellow perch"
+    },
+    {
+        "animal": "Zebra"
+    },
+    {
+        "animal": "Zebra finch"
+    },
+    {
+        "animal": "Animals by size"
+    },
+    {
+        "animal": "Alpaca"
+    },
+    {
+        "animal": "Bali cattle"
+    },
+    {
+        "animal": "Cat"
+    },
+    {
+        "animal": "Cattle"
+    },
+    {
+        "animal": "Chicken"
+    },
+    {
+        "animal": "Bactrian camel"
+    },
+    {
+        "animal": "canary"
+    },
+    {
+        "animal": "dromedary camel"
+    },
+    {
+        "animal": "duck"
+    },
+    {
+        "animal": "goat"
+    },
+    {
+        "animal": "goose"
+    },
+    {
+        "animal": "guineafowl"
+    },
+    {
+        "animal": "hedgehog"
+    },
+    {
+        "animal": "pigeon"
+    },
+    {
+        "animal": "rabbit"
+    },
+    {
+        "animal": "silkmoth"
+    },
+    {
+        "animal": "silver fox"
+    },
+    {
+        "animal": "turkey"
+    },
+    {
+        "animal": "Fancy mouse"
+    },
+    {
+        "animal": "Fancy rat"
+    },
+    {
+        "animal": "Lab rat"
+    },
+    {
+        "animal": "Ferret"
+    },
+    {
+        "animal": "Gayal"
+    },
+    {
+        "animal": "Goldfish"
+    },
+    {
+        "animal": "Guppy"
+    },
+    {
+        "animal": "Horse"
+    },
+    {
+        "animal": "Koi"
+    },
+    {
+        "animal": "Llama"
+    },
+    {
+        "animal": "Ringneck dove"
+    },
+    {
+        "animal": "Sheep"
+    },
+    {
+        "animal": "Siamese fighting fish"
+    },
+    {
+        "animal": "Society finch"
+    },
+    {
+        "animal": "Yak"
+    }
+]

@@ -4,6 +4,11 @@ const cors = require("cors");
 const { University } = require("../database/dbUniConnect");
 const { Email } = require("../database/dbEmailConnect");
 const main = require("./sendEmail");
+const { SignUpDetails } = require("../database/SignUpDetailsDB");
+const dbSignUpDetailsConnect = require("../database/dbSignUpDetailsConnect");
+
+dbSignUpDetailsConnect();
+
 app.use(cors());
 app.use(express.json());
 
@@ -58,6 +63,53 @@ app.post("/verify-otp", (req, res) => {
   }
 });
 
+app.post("/create-account", async (req, res) => {
+  try {
+    const { email, password, username } = req.body;
+    if (!email || !password || !username) {
+      res
+        .status(400)
+        .json({ message: "Email, password and username are required" });
+      return;
+    }
+    const existingUser = await SignUpDetails.findOne({ email });
+    if (existingUser) {
+      res.status(400).json({ message: "Email already in use" });
+      return;
+    }
+    const newUser = new SignUpDetails({ email, password, username });
+    await newUser.save();
+    res.status(201).json({ message: "Account created successfully" });
+  } catch (error) {
+    console.error(error);
+    res
+      .status(500)
+      .json({ message: "An error occurred while creating the account" });
+  }
+});
+
+app.post("/login", async (req, res) => {
+  try {
+    const { email, password } = req.body;
+    if (!email || !password) {
+      res.status(400).json({ message: "Email and password are required" });
+      return;
+    }
+    const user = await SignUpDetails.findOne({ email });
+    if (!user) {
+      res.status(400).json({ message: "Invalid email or password" });
+      return;
+    }
+    if (user.password !== password) {
+      res.status(400).json({ message: "Invalid email or password" });
+      return;
+    }
+    res.status(200).json({ message: "Login successful" });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "An error occurred while logging in" });
+  }
+});
 app.listen(3000, () => {
   console.log("Server is running on port 3000");
 });
