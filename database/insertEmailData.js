@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const {Email} = require("./dbEmailConnect")
+const { Email } = require("./dbEmailConnect");
 
 const emailFilePath = path.join(__dirname, "email_provider_domains.json");
 

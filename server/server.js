@@ -6,6 +6,9 @@ const { Email } = require("../database/dbEmailConnect");
 const main = require("./sendEmail");
 const { SignUpDetails } = require("../database/SignUpDetailsDB");
 const dbSignUpDetailsConnect = require("../database/dbSignUpDetailsConnect");
+const { WrittenPosts } = require("../models/writePostSchema");
+const { generateToken } = require("../utils/loginAuthUtils");
+const verifyToken  = require("../middleware/verifyToken");
 
 dbSignUpDetailsConnect();
 
@@ -104,12 +107,45 @@ app.post("/login", async (req, res) => {
       res.status(400).json({ message: "Invalid email or password" });
       return;
     }
-    res.status(200).json({ message: "Login successful" });
+    const token = generateToken(user);
+    res.status(200).json({ message: "Login successful", token });
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "An error occurred while logging in" });
   }
 });
+
+app.post("/post", verifyToken, async (req, res) => {
+  try {
+    const { title, content } = req.body;
+    const newPost = new WrittenPosts({
+      title,
+      content,
+    });
+    const savedPost = await newPost.save();
+    res
+      .status(201)
+      .json({ message: "Post created successfully", post: savedPost });
+  } catch (error) {
+    console.error("Error creating post:", error);
+    res
+      .status(500)
+      .json({ error: "Failed to create post. Please try again later." });
+  }
+});
+
+app.get("/posts", async (req, res) => {
+  try {
+    const posts = await WrittenPosts.find();
+    res.status(200).json({ posts });
+  } catch (error) {
+    console.error("Error fetching posts:", error);
+    res
+      .status(500)
+      .json({ error: "Failed to fetch posts. Please try again later." });
+  }
+});
+
 app.listen(3000, () => {
   console.log("Server is running on port 3000");
 });
